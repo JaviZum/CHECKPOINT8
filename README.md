@@ -1,7 +1,9 @@
 ## CHECKPOINT8
 Evaluacion Checkpoint8
 
-Realización de los ejercicios corresponndientes al CHECKPOINT8.
+Realización de los ejercicios correspondientes al CHECKPOINT8.
+
+La resolución de las preguntas planteadas en el CHECKPOINT8 se encuentran en la página web creada a tal efecto en la dirección https://devcamp.freejimdo.com
 
 Cree un bucle for en JS que imprima cada nombre en esta lista. miLista = “velma”, “exploradora”, “jane”, “john”, “harry”
 
@@ -15,5 +17,4 @@ Cree una función de flecha que devuelva "Hola mundo".
 
 check83.js
 
-(https://github.com/JaviZum/CHECKPOINT8)
 
